@@ -1,6 +1,6 @@
 # iwanttofindthekarimdebbacheost
 
-## dependencies
+## Dependencies
 
 You'll need nodejs and npm.
 
@@ -9,7 +9,7 @@ npm install audiobuffer-to-wav
 npm install web-audio-api
 ```
 
-##Usage
+## Usage
 
 ```bash
 node decoder.js {source1.json} {source2.json} {length} {output}
