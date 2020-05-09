@@ -2,7 +2,7 @@
 
 ## Dependencies
 
-You'll need nodejs and npm.
+You'll need **nodejs** and **npm**.
 
 ```bash
 npm install audiobuffer-to-wav
